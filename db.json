@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "time": "10:00AM-6:00PM",
+      "min_order": "120",
+      "order_radius_kms": "2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
